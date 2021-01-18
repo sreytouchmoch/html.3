@@ -1,0 +1,27 @@
+.container {
+    margin: auto;
+    width: 50%;
+    border: 3px solid blueviolet;
+    height: 50vh;
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    background: rgb(101, 190, 106);
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    margin-top: 10px;
+}
+.cover {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;;
+}
